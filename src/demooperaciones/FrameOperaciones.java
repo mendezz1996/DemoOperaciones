@@ -106,7 +106,7 @@ public class FrameOperaciones extends javax.swing.JFrame {
     private void btnsumarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnsumarActionPerformed
         int numA=Integer.parseInt(jTextField1.getText());
         int numB=Integer.parseInt(jTextField2.getText());
-        JOptionPane.showMessageDialog(this,"la suma es: "+(numA+numB));
+        JOptionPane.showMessageDialog(this,"la sumatoria de los numeros es: "+(numA+numB));
     }//GEN-LAST:event_btnsumarActionPerformed
 
     private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
